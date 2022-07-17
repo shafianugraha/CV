@@ -1,0 +1,25 @@
+body {
+    background-color: #f2d7d9;
+  }
+  hr {
+    border-style: none;
+    border-top-style: dashed;
+    border-color: #D3CEDF;
+    border-width: 5px;
+    width: 10%;
+  }
+  h1 {
+    color: #9cb4cc;
+  }
+  h3 {
+    color: #748DA6;
+  }
+  img {
+    max-width: 100%;
+  }
+  
+  
+/************************************ CLASS Selector ***********************************************/
+
+
+/************************************* ID Selector *************************************************/
